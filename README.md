@@ -1,2 +1,2 @@
 # Orbits
-Simulating orbits using PyGame
+Simulating orbits 
